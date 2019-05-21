@@ -8,16 +8,16 @@ Vos attaques ainsi que celles du boss sont aléatoires ! A vous de gérer votre 
 Voici une petite liste de codes pour vous repérer avec le jeu !
 
 * HERO ET BOSS
-  * *setDmg(Int)*: définit les dégats à infliger\n
-  * *setLife(Int)*: définit la vie\n
-  * *setName(String)*: définit le nom\n
-  * *getDmg()*: retourne les dégats\n
-  * *getLife()*: retourne la vie\n
-  * *getDefLife()*: retourne la vie définie (la toute première)\n
-  * *getName()*: retourne le nom\n
+  * `setDmg(Int)`: définit les dégats à infliger\n
+  * `setLife(Int)`: définit la vie\n
+  * `setName(String)`: définit le nom\n
+  * `getDmg()`: retourne les dégats\n
+  * `getLife()`: retourne la vie\n
+  * `getDefLife()`: retourne la vie définie (la toute première)\n
+  * `getName()`: retourne le nom\n
 * HERO UNIQUEMENT
-  * *setHeal(Int)*: définit les régénérations\n
-  * *getHeal()*: retourne le nombre de régénérations réstantes
+  * `setHeal(Int)`: définit les régénérations\n
+  * `getHeal()`: retourne le nombre de régénérations réstantes
   
 # COPYRIGHT ET CONTACT
 Aucun Copyright, donc libre a vous d'utiliser le code comme bon vous semble ^^
